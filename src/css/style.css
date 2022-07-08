@@ -121,3 +121,60 @@ h2.title {
 
 /* ВТОРАЯ СЕКЦИЯ */
 
+.waiting {
+    height: 607px;
+    background-color: #efefef;
+    padding: 85px 0 75px 0;
+}
+
+.waiting .waiting_header {
+    color: #252525;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.waiting .waiting_divider {
+    width: 220px;
+    height: 4px;
+    background: #F9BF3B;
+    margin: 18px auto 0 auto;
+}
+
+.waiting .waiting_subheader {
+    margin-top: 18px;
+    color: #4A4A4A;
+    font-family: 'Roboto';
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.waiting .waiting_wrapper {
+    margin-top: 45px;
+}
+
+.waiting .waiting_wrapper .waiting_item {
+    display: inline-block;
+    margin: 0 15px;
+    vertical-align: top;
+    width: 339px;
+    text-align: center;
+}
+
+.waiting .waiting_wrapper .waiting_item .waiting_img {
+    width: 100%;
+}
+
+.waiting .waiting_wrapper .waiting_item .waiting_descr {
+    margin-top: 33px;
+    color: #4A4A4A;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+}
+
+/* КОНЕЦ ВТОРОЙ СЕКЦИИ */
