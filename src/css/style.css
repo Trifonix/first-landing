@@ -186,7 +186,7 @@ h2.title {
     padding: 102px 0 107px 0;
 }
 
-.optimization .optimization_header {
+.optimization__header {
     margin-left: 391px;
     color: #299CBD;
     font-family: 'Roboto';
@@ -195,7 +195,7 @@ h2.title {
     text-transform: uppercase;
 }
 
-.optimization .optimization_text {
+.optimization__text {
     margin-top: 25px;
     margin-left: 391px;
     color: #4A4A4A;
@@ -205,12 +205,12 @@ h2.title {
     line-height: 27px;
 }
 
-.optimization .optimization_text span {
+.optimization__text span {
     font-family: "Roboto - Bold";
     font-weight: 700;
 }
 
-.optimization .optimization_img {
+.optimization__img {
     position: absolute;
     top: -54px;
     left: -240px;
@@ -223,7 +223,7 @@ h2.title {
     background: url('../img/bg/second_bg.jpg') center center/cover no-repeat;
 }
 
-.finish .finish_header {
+.finish__header {
     color: #fff;
     font-family: 'Roboto';
     font-size: 30px;
@@ -233,24 +233,24 @@ h2.title {
     
 }
 
-.finish .finish_divider {
+.finish__divider {
     width: 220px;
     height: 4px;
     background: #F9BF3B;
     margin: 18px auto 0 auto;
 }
 
-.finish .finish_wrapper {
+.finish__wrapper {
     margin-top: 41px;
     display: flex;
     justify-content: space-between;
 }
 
-.finish .finish_wrapper .finish_item {
+.finish__item {
     width: 204px;
 }
 
-.finish .finish_wrapper .finish_item .finish_round {
+.finish__round {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -261,7 +261,7 @@ h2.title {
     background: #B4E2FF;
 }
 
-.finish .finish_wrapper .finish_item .finish_descr {
+.finish__descr {
     margin-top: 25px;
     text-align: center;
     color: #EFEFEF;
