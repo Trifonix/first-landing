@@ -370,9 +370,9 @@ h2.title {
 
 /* НАЧАЛО ПОДВАЛА */
 
-.footer {
-    min-height: 169px;
-    padding: 57px 0 69px 0;
+footer {
+    min-height: 150px;
+    padding: 60px 0;
     background-color: #1A1A1A;
 }
 
