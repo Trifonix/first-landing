@@ -83,7 +83,7 @@ h2.title {
     display: block;
     font-family: 'Roboto', sans-serif;
     margin: 0 auto;
-    margin-top: 73px;
+    margin-top: 55px;
     width: 343px;
     height: 92px;
     box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.18);
@@ -100,7 +100,7 @@ h2.title {
 }
 
 .more {
-    margin-top: 73px;
+    margin-top: 55px;
 }
 
 .more .more_text {
@@ -182,7 +182,7 @@ h2.title {
 
 .optimization {
     min-height: 550px;
-    padding: 102px 0 39px 0;
+    padding: 102px 0 37px 0;
 }
 
 .optimization__header {
@@ -197,7 +197,7 @@ h2.title {
     margin-top: 25px;
     margin-left: 391px;
     color: #4A4A4A;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 300;
     line-height: 27px;
 }
