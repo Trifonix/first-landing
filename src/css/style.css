@@ -376,7 +376,7 @@ h2.title {
     background-color: #1A1A1A;
 }
 
-.footer__links {
+.footer__links, .footer__links a {
     color: #888888;
     font-family: 'Roboto';
     font-weight: 300;
