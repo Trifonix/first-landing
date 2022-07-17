@@ -324,12 +324,12 @@ h2.title {
     padding: 89px 0 51px 0;
 }
 
-.webinar__logo-img {
+.webinar__header-logo {
     display: block;
     margin: 0 auto;
 }
 
-.webinar__header-first-text {
+.webinar__wrapper-first-text {
     color: #252525;
     font-family: 'Roboto';
     font-weight: 400;
@@ -340,7 +340,7 @@ h2.title {
     text-transform: uppercase;
 }
 
-.webinar__header-date {
+.webinar__wrapper-date {
     color: #299CBD;
     font-family: 'Roboto';
     font-weight: 900;
@@ -351,7 +351,7 @@ h2.title {
     margin-top: 30px;
 }
 
-.webinar__header-text {
+.webinar__wrapper-text {
     color: #4A4A4A;
     font-family: 'Roboto';
     font-weight: 400;
