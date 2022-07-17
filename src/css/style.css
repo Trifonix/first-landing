@@ -371,30 +371,13 @@ footer {
     background-color: #1A1A1A;
 }
 
-.footer__links, .footer__links a {
+.footer__links, .footer__links a, .footer__callback, .footer__callback a {
     color: #888888;
     font-family: 'Roboto';
     font-weight: 300;
     font-size: 15px;
     line-height: 21px;
     text-align: center;
-}
-
-.footer__links a:hover, .footer__links a:visited, .footer__links a:active {
-    color: #888888;
-}
-
-.footer__callback {
-    color: #888888;
-    font-family: 'Roboto';
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 21px;
-    text-align: center;
-}
-
-.footer__callback a, .footer__callback a:hover, .footer__callback a:visited, .footer__callback a:active {
-    color: #888888;
 }
 
 /* КОНЕЦ ПОДВАЛА */
