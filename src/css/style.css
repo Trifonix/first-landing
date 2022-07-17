@@ -140,7 +140,7 @@ h2.title {
     width: 220px;
     height: 4px;
     background: #F9BF3B;
-    margin: 18px auto 0 auto;
+    margin: 18px auto 0;
 }
 
 .waiting .waiting__subheader {
@@ -237,7 +237,7 @@ h2.title {
     width: 220px;
     height: 4px;
     background: #F9BF3B;
-    margin: 18px auto 0 auto;
+    margin: 18px auto 0;
 }
 
 .finish__wrapper {
